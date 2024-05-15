@@ -1,0 +1,17 @@
+.card {
+  display: block;
+  padding: 1px;
+  border: 20px solid #ddd;
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+}
+.card .card-title {
+  font-size: 1.35rem;
+  padding-bottom: 0.75rem;
+  font-weight: bold;
+}
+.card .card-body {
+  font-size: 0.9rem;
+}
+.card .card-body a {
+  text-decoration: none;
+}

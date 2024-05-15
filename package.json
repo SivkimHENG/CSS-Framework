@@ -1,0 +1,16 @@
+{
+  "name": "css-framework",
+  "version": "1.0.0",
+  "description": "- Re-creating from scratch is best to learning. \t- get knowledge of CSS by building and depth knowledge, how CSS works. \t- Building something from ground is a fun way to learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.77.1"
+  }
+}
